@@ -1,0 +1,13 @@
+{
+  "files": [
+    "index.ts"
+  ],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es2022",
+    "noEmit": true
+  },
+  "lib": [
+    "DOM"
+  ]
+}
